@@ -17,5 +17,10 @@ class CustomViewA: UIView {
         // Drawing code
     }
     */
+    
+    func test1() {
+       
+        print("hahahaha");
+    }
 
 }
