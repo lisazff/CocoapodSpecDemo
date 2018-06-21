@@ -27,5 +27,16 @@ class CustomViewA: UIView {
         
         print("1111");
     }
+    
+    
+    func test3() {
+        
+        print("33333");
+    }
+    
+    func test4() {
+        
+        print("4444");
+    }
 
 }
